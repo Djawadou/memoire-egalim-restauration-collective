@@ -1,0 +1,5 @@
+# Données confidentielles (non publiées)
+*.dta
+*.xlsx
+*.xls
+*.csv
